@@ -35,3 +35,5 @@ I have used knowledge of the following in my day to day work:
 - Distributed systems, concurrency and ansynchronous programming
 - Test Driven Development
 - A range of Agile/Lean/analysis methods
+
+### Please see [LinkedIn](https://www.linkedin.com/in/jake-h-a4ab0138/) for previous roles
