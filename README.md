@@ -37,6 +37,7 @@ I previously worked as an Engineer on the Data team, collecting a clickstream an
 - MongoDB
 - SOLR
 - Nginx
+- ...and others
 
 AWS Products: Redshift, S3, Lambda, Kinesis, EC2, Data Pipeline, KMS, RDS, Lambda, SNS, EMR
 
